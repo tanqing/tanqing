@@ -1,0 +1,12 @@
+{
+    "name": "tanqing/tqing",
+    "description": "haley my self",
+    "type": "php",
+    "authors": [
+        {
+            "name": "tan qing",
+            "email": "itanqing@gmail.com"
+        }
+    ],
+    "require": {}
+}
